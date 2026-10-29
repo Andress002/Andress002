@@ -1,5 +1,14 @@
-### ☁️ Cloud & Platform Engineering
-<img src="https://githubusercontent.com" height="40" alt="Azure" /> &nbsp; <img src="https://githubusercontent.com" height="40" alt="AWS" />
+# Andres Ramos | DevOps & Cloud Engineer 🚀
 
-### 🛠️ Infraestructura como Código & Contenedores
-<img src="https://githubusercontent.com" height="40" alt="Docker" /> &nbsp; <img src="https://githubusercontent.com" height="40" alt="Terraform" />
+## ☁️ Cloud & Platform Engineering
+* `AWS` ── Amazon Web Services (EC2, S3, IAM, VPC)
+* `Azure` ── Microsoft Azure Cloud Infrastructure
+
+## 🛠️ Infraestructura como Código & Contenedores
+* `Linux` ── Administración de Sistemas & Bash Scripting
+* `Docker` ── Contenedorización & Arquitectura de Microservicios
+* `Terraform` ── Infraestructura como Código (IaC) & Gestión de RBAC
+
+## 🔄 CI/CD & Automatización
+* `GitHub Actions` ── Automatización de Pipelines & CI/CD Workflows
+* `Azure DevOps` ── Ciclo de Vida de Aplicaciones & Pipelines
