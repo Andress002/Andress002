@@ -4,13 +4,14 @@
 ###  Stack Tecnológico & Herramientas
 
 #### ☁️ Cloud & Infraestructura como Código (IaC)
-[![terraform](https://skillicons.dev)](https://skillicons.dev)
+![Terraform](https://shields.io)
 
 #### 🐳 Contenedores & Orquestación
 [![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 #### 🔄 CI/CD, Monitoreo & Lenguajes
 [![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
 
 ---
 
